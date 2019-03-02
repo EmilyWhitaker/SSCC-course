@@ -1,0 +1,9 @@
+{
+    "path" : "~/DWE",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

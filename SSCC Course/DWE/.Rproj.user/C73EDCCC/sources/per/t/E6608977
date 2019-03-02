@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549986252951.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3091968710",
+    "id" : "E6608977",
+    "lastKnownWriteTime" : 1550594878,
+    "last_content_update" : 1550594878231,
+    "path" : "~/DWE/exercises/cleaning ex.R",
+    "project_path" : "exercises/cleaning ex.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

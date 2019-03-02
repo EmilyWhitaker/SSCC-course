@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550763374910.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3386192007",
+    "id" : "F28EAAA8",
+    "lastKnownWriteTime" : 1550767673,
+    "last_content_update" : 1550767673258,
+    "path" : "~/DWE/exercises/quant.R",
+    "project_path" : "exercises/quant.R",
+    "properties" : {
+        "cursorPosition" : "31,24",
+        "scrollLine" : "21",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

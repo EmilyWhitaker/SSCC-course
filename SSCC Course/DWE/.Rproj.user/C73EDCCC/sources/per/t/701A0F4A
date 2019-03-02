@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550592054247.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1795077670",
+    "id" : "701A0F4A",
+    "lastKnownWriteTime" : 1550761543,
+    "last_content_update" : 1550761543397,
+    "path" : "~/DWE/examples/sink or swim tranformers.R",
+    "project_path" : "examples/sink or swim tranformers.R",
+    "properties" : {
+        "cursorPosition" : "56,0",
+        "scrollLine" : "27",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

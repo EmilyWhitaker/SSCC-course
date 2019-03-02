@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550761540684.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3186107911",
+    "id" : "CD27C65C",
+    "lastKnownWriteTime" : 1550766001,
+    "last_content_update" : 1550766001794,
+    "path" : "~/DWE/exercises/transforming vars.R",
+    "project_path" : "exercises/transforming vars.R",
+    "properties" : {
+        "cursorPosition" : "142,0",
+        "scrollLine" : "112",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 13,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
